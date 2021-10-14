@@ -1,0 +1,10 @@
+{
+      "name": "OpenDaily",
+      "version":"1.0",
+      "description":"Abre no navegador sua reunião na hora marcada.",
+      "browser_action":{
+        "default_popup":"index.html"
+      },
+
+      "manifest_version":2
+}
